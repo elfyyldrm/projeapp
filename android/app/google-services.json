@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610310908901",
+    "project_id": "ninja-kahve-saati",
+    "storage_bucket": "ninja-kahve-saati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610310908901:android:0154c00d9ee603212c1d0c",
+        "android_client_info": {
+          "package_name": "com.example.projeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610310908901-00n9tdhgjekf686hecp5hotfoc4894va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75ii8lyyfn7eyDM9XV0HnSPDcbOF5DjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610310908901-00n9tdhgjekf686hecp5hotfoc4894va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
